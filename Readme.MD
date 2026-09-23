@@ -59,4 +59,4 @@ Kode ini sengaja ditulis sederhana tanpa atribut tambahan seperti `class` atau `
 ## Dibuat oleh
 Nama: Zafira Paras
 Program Studi: Sistem Teknologi Informasi
-Semester: 3
+Semester: 2
